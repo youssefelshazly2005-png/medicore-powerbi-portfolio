@@ -28,3 +28,19 @@ The data is synthetic and does not represent real patients, clinics, or clinical
 ## Portfolio wording
 
 > Built a Power BI healthcare analytics portfolio solution for a fictional 12-clinic network using realistic synthetic data, a multi-fact dimensional model, 46 DAX measures, interactive executive, clinic performance, and patient experience pages, plus automated source-to-model reconciliation tests.
+
+## Screenshots
+
+### Data model
+
+![MediCore data model](docs/screenshots/data-model-overview.png)
+
+![MediCore data model detail](docs/screenshots/data-model-detail.png)
+
+### Report pages
+
+![Executive Overview](docs/screenshots/executive-overview.png)
+
+![Clinic Performance](docs/screenshots/clinic-performance.png)
+
+![Patient Experience](docs/screenshots/patient-experience.png)
