@@ -45,4 +45,13 @@ The data is synthetic and does not represent real patients, clinics, or clinical
 
 ![Patient Experience](docs/screenshots/patient-experience.png)
 
+## Downloads
+
+Download the complete Power BI project files:
+
+- [Download MediCore Power BI Report (.pbix)](https://github.com/youssefelshazly2005-png/medicore-powerbi-portfolio/blob/main/MediCore.pbix)
+- [Download Full Validated Project Package (.zip)](https://github.com/youssefelshazly2005-png/medicore-powerbi-portfolio/blob/main/MediCore_Three_Pages_Validated.zip)
+
+> Open the PBIX file with Power BI Desktop. The ZIP contains the PBIX, source data, PBIP files, documentation, DAX measures, and validation evidence.
+
 
