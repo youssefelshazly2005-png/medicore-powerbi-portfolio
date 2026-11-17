@@ -44,3 +44,6 @@ The data is synthetic and does not represent real patients, clinics, or clinical
 ![Clinic Performance](docs/screenshots/clinic-performance.png)
 
 ![Patient Experience](docs/screenshots/patient-experience.png)
+
+<img width="1091" height="739" alt="{872E9053-E03E-4DD4-ADDE-C33DCD6265C8}" src="https://github.com/user-attachments/assets/8e44d3ef-d7ab-4883-8d85-c0b3b61e157c" />
+
